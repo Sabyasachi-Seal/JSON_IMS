@@ -1,0 +1,152 @@
+{
+  "1001": {
+    "Product_Name": "Choco Cake",
+    "Quantity": 34,
+    "Price": 100
+  },
+  "1002": {
+    "Product_Name": "Milk Cake",
+    "Price": 800,
+    "Quantity": 100
+  },
+  "1003": {
+    "Product_Name": "Cold Drink",
+    "Price": 85,
+    "Quantity": 100
+  },
+  "1004": {
+    "Product_Name": "Candy",
+    "Price": 5,
+    "Quantity": 1000
+  },
+  "1005": {
+    "Product_Name": "Pen",
+    "Price": 20,
+    "Quantity": 100
+  },
+  "1006": {
+    "Product_Name": "Phone",
+    "Price": 50000,
+    "Quantity": 10
+  },
+  "1007": {
+    "Product_Name": "Mic",
+    "Price": 1500,
+    "Quantity": 0
+  },
+  "1008": {
+    "Product_Name": "Case",
+    "Price": 599,
+    "Quantity": 5
+  },
+  "1009": {
+    "Product_Name": "Keyboard",
+    "Price": 1999,
+    "Quantity": 10
+  },
+  "1010": {
+    "Product_Name": "Nestle Maggi",
+    "Price": 5,
+    "Quantity": 23
+  },
+  "1011": {
+    "Product_Name": "Cadbury",
+    "Price": 10,
+    "Quantity": 150
+  },
+  "1012": {
+    "Product_Name": "Wai Wai",
+    "Price": 5,
+    "Quantity": 18
+  },
+  "1013": {
+    "Product_Name": "Chocolate Balls",
+    "Price": 15,
+    "Quantity": 560
+  },
+  "1014": {
+    "Product_Name": "Spectacles",
+    "Price": 5,
+    "Quantity": 500
+  },
+  "1015": {
+    "Product_Name": "Kinder-Joy",
+    "Price": 5,
+    "Quantity": 102
+  },
+  "1016": {
+    "Product_Name": "Galaxy",
+    "Price": 20,
+    "Quantity": 80
+  },
+  "1017": {
+    "Product_Name": "Cold Coffee",
+    "Price": 100,
+    "Quantity": 90
+  },
+  "1018": {
+    "Product_Name": "Dark Chocolate",
+    "Price": 80,
+    "Quantity": 70
+  },
+  "1019": {
+    "Product_Name": "Oreo",
+    "Price": 50,
+    "Quantity": 150
+  },
+  "1020": {
+    "Product_Name": "Apple Pie",
+    "Price": 10,
+    "Quantity": 90
+  },
+  "1021": {
+    "Product_Name": "Kurkure",
+    "Price": 5,
+    "Quantity": 50
+  },
+  "1022": {
+    "Product_Name": "Bourneville",
+    "Price": 10,
+    "Quantity": 50
+  },
+  "1023": {
+    "Product_Name": "Chips",
+    "Price": 5,
+    "Quantity": 30
+  },
+  "1024": {
+    "Product_Name": "Mentos",
+    "Price": 1,
+    "Quantity": 10000
+  },
+  "1025": {
+    "Product_Name": "School Copy",
+    "Price": 1,
+    "Quantity": 20000
+  },
+  "1026": {
+    "Product_Name": "Lollipop",
+    "Price": 1,
+    "Quantity": 9000
+  },
+  "1027": {
+    "Product_Name": "Mentos",
+    "Price": 2,
+    "Quantity": 8000
+  },
+  "1028": {
+    "Product_Name": "Lichi Drink",
+    "Price": 20,
+    "Quantity": 500
+  },
+  "1029": {
+    "Product_Name": "Webcam Cover",
+    "Price": 45,
+    "Quantity": 600
+  },
+  "1030": {
+    "Product_Name": "Fanta",
+    "Price": 15,
+    "Quantity": 800
+  }
+}
