@@ -1,1 +1,1 @@
-1st project for my Python for ML/AI intership. Doing it was a lot of fun, thank you for the opportunity. :)
+1st project for my Python for ML/AI internship. Doing it was a lot of fun, Thank You for the opportunity. :)
